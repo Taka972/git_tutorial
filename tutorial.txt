@@ -1,2 +1,2 @@
 gitチュートリアル
-
+git status
